@@ -51,4 +51,4 @@ function checkSorted(arr) {
   return true;
 }
 
-console.log(mergeSort([12, 13, 1, 3, 5, 323, 7, 3, 2, 4, 99, 1]));
+console.log(mergeSort([12,13,3,5,323,2,4,99,1,188,299]));
